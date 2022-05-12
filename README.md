@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AmoghAnandJha
+- 👀 I’m interested in chess, space, art and everything nerdy.
+- 🌱 I’m currently learning solidity
